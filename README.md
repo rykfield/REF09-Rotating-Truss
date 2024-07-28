@@ -7,9 +7,7 @@ The 2019 Great Ball Pit Challenge was to build a module based around a rotating 
 
 <P>Video: https://youtu.be/rAfZjFAcGYM
 
-<P>Instructions: https://github.com/rykfield/REF09-Rotating-Truss/raw/master/REF09%20-%20Rotating%20Truss.pdf
-
-<P>Parts List: https://github.com/rykfield/REF09-Rotating-Truss/raw/master/REF09%20-%20Rotating%20Truss.xml
+<P><B>NOTE:</B> There is a new updated PDF and IO file available above.</P>
 
 <P><a href="https://github.com/rykfield/REF00-Module-Overview"><B>All available modules and instructions</b></a>
 
